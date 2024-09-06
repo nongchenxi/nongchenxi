@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**nongchenxi/nongchenxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 来做个自我介绍吧🥳
+我叫农晨曦，来自广西百色，现在是一名数据科学与大数据技术专业的学生
+### 我的兴趣爱好🥰
+- 排球🏐
+- 跑步🏃‍♀️
+- 金铲铲🎮
+- 许嵩周杰伦林俊杰孙燕姿🎧
+### 我的专业技能💡
+- C、python、Java
+- Hadoop、Spark
+### 未来三年的发展设想
+掌握一门本专业的技术，找到一份好工作！
+or，考个研究生继续深造！
+### 更多关于我的👯
 
-Here are some ideas to get you started:
+- 🔭 我的mbti:intj
+- 🌱 我目前正在学习：软件工程！
+- 🤔 最想学习的知识方面：数据安全与隐私保护
+- 📫 我的[博客园](https://www.cnblogs.com/nchenxi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
